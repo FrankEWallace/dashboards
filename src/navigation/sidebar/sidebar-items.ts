@@ -87,9 +87,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Logistics",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/logistics",
         icon: Forklift,
-        comingSoon: true,
       },
     ],
   },
@@ -128,9 +127,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Users",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/users",
         icon: Users,
-        comingSoon: true,
       },
       {
         title: "Roles",
