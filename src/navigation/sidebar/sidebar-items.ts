@@ -115,9 +115,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Kanban",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/kanban",
         icon: Kanban,
-        comingSoon: true,
       },
       {
         title: "Invoice",
